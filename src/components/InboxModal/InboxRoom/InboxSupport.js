@@ -2,8 +2,6 @@ import React, { useState, useEffect } from "react";
 import Container from "../../Container";
 import Header from "./Header";
 import ChatBubble from "./ChatBubble";
-import DateGap from "./DateGap";
-import NewMessageGap from "./NewMessageGap";
 import InputChat from "./InputChat";
 import LoaderChat from "../../Loader/LoaderChat";
 
